@@ -1,1 +1,7 @@
 Flask
+numpy
+pandas
+scikit-learn
+requests
+template-render
+jsonify
